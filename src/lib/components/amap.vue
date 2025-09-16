@@ -21,7 +21,7 @@ export default {
     'pitch',
     'buildingAnimation',
     'pitchEnable',
-
+    'showOversea',  // 开启世界地图
     'vid',
     'events',
     'center',
