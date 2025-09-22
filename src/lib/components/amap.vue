@@ -22,6 +22,7 @@ export default {
     'buildingAnimation',
     'pitchEnable',
     'showOversea',  // 开启世界地图
+    'languageCode', // 多语言配置
     'vid',
     'events',
     'center',
